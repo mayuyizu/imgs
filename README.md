@@ -1,1 +1,1 @@
-![image](screenshots/1.png)
+![image](https://github.com/mayuyizu/imgs/blob/master/screenshots/1.jpg)
